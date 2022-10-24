@@ -1,0 +1,13 @@
+input[type="radio"]{
+   width: 25px;
+   height: 25px;
+   font-size: 25px;
+}
+label{
+    font-size: 1.2rem;
+    font-weight: 800;
+}
+thead{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
